@@ -18,7 +18,7 @@ const Projects = () => {
                   title="Reastorant"
                   img={CarRental}
                   date="(jan 2024)"
-                  description="A restaurant website is your virtual passport to culinary delight, offering a seamless interface to explore, compare, and reserve tables. From casual to upscale, indulge your palate with diverse menus and reviews, ensuring a savory experience. Just as a car rental site finds your perfect ride, this platform secures your ideal dining destination."
+                  description="A restaurant website is your virtual passport to culinary delight."
                   techno1="React"
                   techno2="Tailwind"
                   code="https://github.com/stefvndev/car-rental"
