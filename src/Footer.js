@@ -14,7 +14,7 @@ const Footer = () => {
                   aria-label="linkedin"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://www.linkedin.com/in/stefan-topalovic-dev/"
+                  href="https://www.linkedin.com/in/natnael-eskinder-77695b289/"
                 >
                   <IconBrandLinkedin width={30} height={30} />
                 </a>
@@ -22,7 +22,7 @@ const Footer = () => {
                   aria-label="github"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://github.com/stefvndev"
+                  href="https://github.com/natnaelesk"
                 >
                   <IconBrandGithub width={30} height={30} />
                 </a>

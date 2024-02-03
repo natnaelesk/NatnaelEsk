@@ -38,7 +38,7 @@ const Hero = () => {
                       aria-label="linkedin"
                       rel="noreferrer"
                       target="_blank"
-                      href="https://www.linkedin.com/in/stefan-topalovic-dev/"
+                      href="https://www.linkedin.com/in/natnael-eskinder-77695b289/"
                     >
                       <IconBrandLinkedin width={32} height={32} />
                     </a>
@@ -46,7 +46,7 @@ const Hero = () => {
                       aria-label="github"
                       rel="noreferrer"
                       target="_blank"
-                      href="https://github.com/stefvndev"
+                      href="https://github.com/natnaelesk"
                     >
                       <IconBrandGithub width={32} height={32} />
                     </a>

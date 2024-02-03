@@ -36,7 +36,7 @@ const NavBar = () => {
         <>
       <nav>
         <h3 onClick={pageUp} className="logo">
-          Stefan.dev
+          natnael.esk
         </h3>
         <ul>
           {navlinks.map((item) => (
