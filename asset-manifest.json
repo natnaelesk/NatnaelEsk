@@ -1,12 +1,8 @@
 {
   "files": {
     "main.css": "/NatnaelEsk/static/css/main.90b37b52.css",
-    "main.js": "/NatnaelEsk/static/js/main.baf80570.js",
+    "main.js": "/NatnaelEsk/static/js/main.60a0efb3.js",
     "static/js/787.7da95b79.chunk.js": "/NatnaelEsk/static/js/787.7da95b79.chunk.js",
-    "static/media/restorant.png": "/NatnaelEsk/static/media/restorant.030007c7042f61b5f1a3.png",
-    "static/media/coindom-full.png": "/NatnaelEsk/static/media/coindom-full.c5fef9ca2f47e52897f8.png",
-    "static/media/gymate-home.webp": "/NatnaelEsk/static/media/gymate-home.52d00d03c15713c601c4.webp",
-    "static/media/ecom.webp": "/NatnaelEsk/static/media/ecom.f10b3cdd799be85c19da.webp",
     "static/media/me.jpg": "/NatnaelEsk/static/media/me.cd593e28c47e3da89434.jpg",
     "static/media/about-img.webp": "/NatnaelEsk/static/media/about-img.62b47e7f183d4b4e9feb.webp",
     "static/media/waving.png": "/NatnaelEsk/static/media/waving.1bae5fcfb51082b5c2b4.png",
@@ -14,11 +10,11 @@
     "static/media/text2.svg": "/NatnaelEsk/static/media/text2.3d5aa6ba2d0632bb4e0572631c3f9dc2.svg",
     "index.html": "/NatnaelEsk/index.html",
     "main.90b37b52.css.map": "/NatnaelEsk/static/css/main.90b37b52.css.map",
-    "main.baf80570.js.map": "/NatnaelEsk/static/js/main.baf80570.js.map",
+    "main.60a0efb3.js.map": "/NatnaelEsk/static/js/main.60a0efb3.js.map",
     "787.7da95b79.chunk.js.map": "/NatnaelEsk/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90b37b52.css",
-    "static/js/main.baf80570.js"
+    "static/js/main.60a0efb3.js"
   ]
 }
