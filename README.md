@@ -30,7 +30,7 @@ Check out some of my projects:
 
 ## Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/natnaeleskinder/](https://www.linkedin.com/in/natnael-eskinder-77695b289/))
+- [LinkedIn](https://www.linkedin.com/in/natnael-eskinder-77695b289/)
 - [Instagram](https://www.instagram.com/natnael_esk/)
 - [Portfolio]( https://natnaelesk.github.io/NatnaelEsk/ )
 
