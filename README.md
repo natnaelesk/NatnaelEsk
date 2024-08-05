@@ -9,10 +9,10 @@ I have a flexible approach to web development, comfortable working on both front
 ### 💻 Tech Stack
 
 - **Languages:** C++, Java, Python, JavaScript, PHP
-- **Web Development:** Django, Node.js, React, Angular, Vue, Tailwind, Bootstrap, HTML, CSS
+- **Web Development:** Django, Node.js, React, Tailwind, Bootstrap, HTML, CSS
 - **Databases:** SQL, PostgreSQL, MongoDB
-- **Libraries & Frameworks:** TensorFlow, 3js, GSAP
-- **Others:** Data Structures & Algorithms, Machine Learning, Cybersecurity
+- **Libraries & Frameworks:**  3js, GSAP
+- **Others:** Data Structures & Algorithms ,  Cybersecurity
 
 ## Projects
 
