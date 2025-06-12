@@ -1,45 +1,45 @@
-# Hi there! 👋
+# Hey, I'm Natnael 👋
 
-I'm Natnael Eskinder, a passionate web developer based in Ethiopia with a knack for both frontend and backend development.
+**Web designer & developer** from Ethiopia — I specialize in crafting clean, user-friendly interfaces and building scalable web applications.  
 
-## About Me
-
-I have a flexible approach to web development, comfortable working on both frontend and backend tasks. I love diving into new technologies and problem-solving to create elegant solutions. Originally from Ethiopia, I'm enthusiastic about contributing to the tech scene in my country and beyond.
-
-### 💻 Tech Stack
-
-- **Languages:** C++, Java, Python, JavaScript, PHP
-- **Web Development:** Django, Node.js, React, Tailwind, Bootstrap, HTML, CSS
-- **Databases:** SQL, PostgreSQL, MongoDB
-- **Libraries & Frameworks:**  3js, GSAP
-- **Others:** Data Structures & Algorithms ,  Cybersecurity
-
-## Projects
-
-Check out some of my projects:
-
-1. **Geez Shoes Website** ([Link](https://natnaelesk.github.io/Geez/))
-   - A dedicated platform for local businesses to showcase their premium leather footwear and expand their reach to a wider audience online.
-
-2. **Personal Portfolio** ([Link](https://natnael-esk.vercel.app))
-   - Built a sleek personal portfolio website using React and Tailwind CSS.
-
-### 🌟 Current Projects
-
-- **AI-Powered Agricultural Advisor**: Participating in the A2SV 2024 Hackathon, working on an AI-driven solution to support farmers with tailored advice.
-- **SaaS Business in AI**: Planning to develop an AI similar to ChatGPT for native languages in Ethiopia.
-- **Portfolio Updates**: Continuously improving my ex [portfolio](https://natnaelesk.github.io/NatnaelEsk), [LinkedIn](https://www.linkedin.com/natnael-esk), and resume.
+I thrive working with startups, turning ideas into polished digital products that solve real problems.
 
 
-### 🎮 Fun Fact
 
-I love movies where characters get immersed in video game worlds, blending virtual and real-life experiences!
+## What I Do
 
-## Connect with Me
+- Design intuitive, modern web experiences with a focus on usability and aesthetics  
+- Build full-stack web apps using Django, React, and Flutter for mobile  
+- Integrate AI and automation to make apps smarter and workflows smoother  
+- Continuously learn and experiment with new tech to stay ahead  
 
-- [LinkedIn](https://www.linkedin.com/in/natnael-eskinder-77695b289/)
-- [Instagram](https://www.instagram.com/natnael_esk/)
-- [Portfolio](https://natnael-esk.vercel.app)
 
-Feel free to explore my repositories and connect with me! Let's collaborate and build something amazing together! 😊
 
+## Tech Highlights
+
+- **Frontend:** React, Tailwind CSS, Bootstrap, GSAP, 3js  
+- **Backend:** Django, Node.js, PostgreSQL, MongoDB  
+- **Languages:** JavaScript, Python, C++  
+- **Other Skills:** UI/UX design, responsive layouts, web animations, AI integration  
+
+
+
+## Portfolio
+
+Check out my latest work:  
+👉 [natnael-esk.vercel.app](https://natnael-esk.vercel.app)  
+
+---
+
+## Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/natnael-eskinder-77695b289/)  
+- [Instagram](https://www.instagram.com/natnael_esk/)  
+
+---
+
+> *“ One of my great skills is that I can adapt fast and learn quickly.”*
+
+---
+
+Feel free to explore my repos or drop me a message if you wanna collab or talk!
