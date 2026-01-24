@@ -1,18 +1,18 @@
 # 👋 Hey, I'm Natnael
 
-**Full-Stack Web Developer** from Ethiopia — I specialize in building **production-ready web applications** with Django and React. I focus on creating clean, maintainable code, scalable backends, and smooth user experiences.
+Hi! I'm a **Full-Stack Web Developer and AI enthusiast**. I build **scalable web applications** with Django and React and create **AI-powered solutions** using LLMs, agents, and model training. My focus is on delivering **real, production-ready products** that work and scale, while keeping interfaces **clean and user-friendly**.
 
-I turn ideas into **real digital products** that solve problems and are ready for deployment.
+I love building **AI-enhanced applications** that automate, predict, and assist, bridging **backend, frontend, and intelligence** into one solution.
 
 ---
 
-## 💻 What I Do
+## 💡 Key Highlights
 
-- Build **full-stack web apps** using Django, Django REST Framework, and React  
-- Design intuitive, responsive, and user-friendly interfaces  
-- Deploy applications with secure authentication and fully functional APIs  
-- Integrate automation and AI features to enhance workflows  
-- Collaborate with teams, bridging backend and frontend seamlessly  
+- Build **full-stack apps** with Django, Django REST Framework & React  
+- Integrate **AI features**: chatbots, RAG systems, LLM agents, model training  
+- Deploy **production-ready backends** with authentication, APIs, and databases  
+- Design **modern, responsive frontends** that users enjoy  
+- Collaborate seamlessly with teams across **frontend, backend, and AI workflows**  
 
 ---
 
@@ -22,27 +22,29 @@ I turn ideas into **real digital products** that solve problems and are ready fo
 **Backend:** Django, Django REST Framework, Node.js (basic)  
 **Database:** PostgreSQL, MongoDB  
 **Languages:** Python, JavaScript, C++  
-**Other Skills:** UI/UX design, responsive layouts, REST APIs, deployment, AI integration  
+**AI/ML:** LLMs, RAG, Agents, Model Training  
+**Other Skills:** UI/UX, responsive layouts, REST APIs, deployment  
 
 ---
 
 ## 🚀 Portfolio
 
-Check out my work:  
+Check my work:  
 [🌐 natnael-esk.vercel.app](https://natnael-esk.vercel.app)
 
-**Highlighted Projects:**  
-- Full-stack Django + React apps with authentication, CRUD, and API integration  
-- React-only applications demonstrating modern UI and responsive design  
-- Deployed projects showcasing real-world functionality  
+**Highlights:**  
+- Full-stack Django + React apps with auth, CRUD, APIs  
+- React-only projects showcasing modern UI  
+- AI-powered apps: chatbots, RAG systems, LLM integrations  
+- All projects deployed and production-ready  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/natnael-eskinder-77695b289/)  
 - [Instagram](https://www.instagram.com/natnael_esk/)  
 
 ---
 
-> *“I build full-stack web applications that are clean, scalable, and ready for production.”*
+> *“I build web applications that scale and AI-powered products that innovate.”*
