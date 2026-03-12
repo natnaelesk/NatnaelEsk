@@ -18,19 +18,20 @@
 
 </div>
 
-<!-- LEETCODE STATUS SECTION - YELLOW THEMED -->
-<div align="left">
-  <!-- LEETCODE HEATMAP - YELLOW THEMED -->
-<div align="left">
-  <div style="background-color: #2d2d2d; border-radius: 10px; border: 2px solid #f9c440; margin: 20px 0; display: inline-block; width: auto;">
-    <div style="background-color: #f9c440; color: #2d2d2d; text-align: center; font-weight: bold; padding: 8px 20px; border-radius: 8px 8px 0 0; font-size: 16px;">
-      ⚡ LEETCODE CONSISTENCY HEATMAP ⚡
+<!-- LEETCODE HEATMAP - FULL WIDTH WITH FULL VISIBILITY -->
+<div align="left" style="width: 100%; margin: 20px 0;">
+  <div style="background-color: #2d2d2d; border-radius: 10px; border: 2px solid #f9c440; width: 100%;">
+    <div style="background-color: #f9c440; color: #2d2d2d; text-align: center; font-weight: bold; padding: 10px; border-radius: 8px 8px 0 0; font-size: 18px;">
+      ⚡ LEETCODE CONSISTENCY - FULL ACTIVITY HEATMAP ⚡
     </div>
-    <div align="center" style="padding: 15px; margin:20px;">
-      <img src="https://leetcard.jacoblin.cool/Natnael_esk?ext=heatmap&theme=dark" alt="LeetCode Heatmap" width="400"/>
+    <div align="left" style="padding: 50px; overflow-x: auto; -webkit-overflow-scrolling: touch; ">
+      <div style="min-width: 800px; display: flex; justify-content: center;">
+        <img src="https://leetcard.jacoblin.cool/Natnael_esk?ext=heatmap&theme=dark" 
+             alt="LeetCode Heatmap" 
+             style="max-width: 100%; height: auto;"/>
+      </div>
     </div>
   </div>
-</div>
 </div>
 
 <!-- Connect Links -->
