@@ -1,7 +1,5 @@
 <div align="left">
 
-
-
 <pre style="color:red;">
 ░▒▓▌ ═══ WELCOME I'M ═══ ▐▓▒░
   
@@ -19,18 +17,32 @@
 </pre>
 
 </div>
+
+<!-- LEETCODE STATUS SECTION - YELLOW THEMED -->
+<div align="left">
+  <!-- LEETCODE HEATMAP - YELLOW THEMED -->
+<div align="left">
+  <div style="background-color: #2d2d2d; border-radius: 10px; border: 2px solid #f9c440; margin: 20px 0; display: inline-block; width: auto;">
+    <div style="background-color: #f9c440; color: #2d2d2d; text-align: center; font-weight: bold; padding: 8px 20px; border-radius: 8px 8px 0 0; font-size: 16px;">
+      ⚡ LEETCODE CONSISTENCY HEATMAP ⚡
+    </div>
+    <div align="center" style="padding: 15px; margin:20px;">
+      <img src="https://leetcard.jacoblin.cool/Natnael_esk?ext=heatmap&theme=dark" alt="LeetCode Heatmap" width="400"/>
+    </div>
+  </div>
+</div>
+</div>
+
 <!-- Connect Links -->
 <div align="left">
   <a href="https://natnael-esk.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="30" alt="portfolio" /></a>
   <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" /></a>
   <a href="YOUR_GMAIL_ADDRESS" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" /></a>
- 
 </div>
 
 ## 🔨 What I Do
 
 I build complete web applications—from designing the UI in Figma to deploying the final product. I'm skilled in both frontend and backend development, creating visually appealing apps with fully functional backends, databases, and business logic. I integrate AI APIs and work comfortably with large language models, training them and developing RAG systems to make websites dynamic, intelligent, and user-friendly.
-
 
 ## ⚙️ **Tech Stack**
 
