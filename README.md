@@ -1,14 +1,14 @@
 ### Sup World! Welcome
 
-I'm Natnael Eskinder. I design and build solutions for repetitive tasks. I specialize in software development. I love innovation — creating something new and solving real people's problems. I'm early in my career, so most of the problems I'm solving are my own for now. Sure, we'll grow into solving the world's problems using the power of the mind (not AI).
+I'm Natnael Eskinder. I design and build solutions for repetitive tasks. I specialize in software development. I love innovation, creating something new, and solving real people's problems. I'm early in my career, so most of the problems I have solved are my own for now. Surely, we'll grow into solving the world's problems using the power of the mind (not AI).
 
 ### Interesting facts
 
-- I don't use Arch, btw (you use it for flex, not productivity)
+- I don't use Arch, btw 
 - I'm a Cursor Ambassador
 - I love community work
-- Introvert, but most of the time I do extrovert weird
-- Love collaboration (inbox me if you have an idea — I'm down)
+- Introvert, but most of the time I do extrovert stuff (weird)
+- Love collaboration 
 - Still learning
 
 ### Now you owe me a star on one of my favorite projects and open sources
