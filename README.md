@@ -1,63 +1,36 @@
-<div align="left">
+# Hey, I'm Natnael
 
-<pre style="color:red;">
-░▒▓▌ ═══ WELCOME I'M ═══ ▐▓▒░
-  
-███╗   ██╗ █████╗ ████████╗███╗   ██╗ █████╗ ███████╗██╗       ███████╗███████╗██╗  ██╗
-████╗  ██║██╔══██╗╚══██╔══╝████╗  ██║██╔══██╗██╔════╝██║       ██╔════╝██╔════╝██║ ██╔╝
-██╔██╗ ██║███████║   ██║   ██╔██╗ ██║███████║█████╗  ██║       █████╗  ███████╗█████╔╝
-██║╚██╗██║██╔══██║   ██║   ██║╚██╗██║██╔══██║██╔══╝  ██║       ██╔══╝  ╚════██║██╔═██╗
-██║ ╚████║██║  ██║   ██║   ██║ ╚████║██║  ██║███████╗███████╗  ███████╗███████║██║  ██╗
-╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚══════╝  ╚══════╝╚══════╝╚═╝  ╚═╝
+Full-stack developer from **Addis Ababa, Ethiopia**.  
+I ship real products end-to-end — web, mobile, backend, and AI integrations.
 
-<span style="color: #00ffff;">╔══════════════════════════════════════════════════════════════════════════╗</span>
-<span style="color: #00ffff;">║</span> Full-Stack Developer | Based In Ethiopia  <span style="color: #ffff00;"> ███▓▓▒▒░░ </span><span style="color: #00ffff;">                    ║</span>
-<span style="color: #00ffff;">╚══════════════════════════════════════════════════════════════════════════╝</span>
+**Looking for:** backend / full-stack / AI roles · remote or international (visa OK)
 
-</pre>
+### Links
+[Portfolio](https://www.natnaelesk.com) · [LinkedIn](https://www.linkedin.com/in/natnaelesk) · [Email](mailto:natnaeleskinder41@gmail.com)
 
-</div>
+---
 
-<!-- LEETCODE HEATMAP - FULL WIDTH WITH FULL VISIBILITY -->
-<div align="left" style="width: 100%; margin: 20px 0;">
-  <div style="background-color: #2d2d2d; border-radius: 10px; border: 2px solid #f9c440; width: 100%;">
-    <div style="background-color: #f9c440; color: #2d2d2d; text-align: center; font-weight: bold; padding: 10px; border-radius: 8px 8px 0 0; font-size: 18px;">
-      ⚡ LEETCODE CONSISTENCY - FULL ACTIVITY HEATMAP ⚡
-    </div>
-    <div align="left" style="padding: 50px; overflow-x: auto; -webkit-overflow-scrolling: touch; ">
-      <div style="min-width: 800px; display: flex; justify-content: center;">
-        <img src="https://leetcard.jacoblin.cool/Natnael_esk?ext=heatmap&theme=dark" 
-             alt="LeetCode Heatmap" 
-             style="max-width: 100%; height: auto;"/>
-      </div>
-    </div>
-  </div>
-</div>
+## What I build
 
-<!-- Connect Links -->
-<div align="left">
-  <a href="https://natnael-esk.vercel.app" target="_blank"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="30" alt="portfolio" /></a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo" /></a>
-  <a href="YOUR_GMAIL_ADDRESS" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail logo" /></a>
-</div>
+- **Production apps** — marketplaces, directories, client platforms (Suuq, WorldSomali Biz, Agunta)
+- **AI systems** — RAG chatbots, LLM pipelines, automation (Hiriya, sponsor detector)
+- **Community** — ETH-X01 for Ethiopian devs · Cursor Ambassador
 
-## 🔨 What I Do
+## Stack
 
-I build complete web applications—from designing the UI in Figma to deploying the final product. I'm skilled in both frontend and backend development, creating visually appealing apps with fully functional backends, databases, and business logic. I integrate AI APIs and work comfortably with large language models, training them and developing RAG systems to make websites dynamic, intelligent, and user-friendly.
+`Python` · `TypeScript` · `React` · `React Native` · `Node.js` · `Django` · `FastAPI` · `PostgreSQL` · `Supabase` · `Firebase` · `LangChain` / RAG · `CI/CD`
 
-## ⚙️ **Tech Stack**
+## Featured public work
 
-### **Python Backend**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37) ![JWT](https://img.shields.io/badge/-JWT-000000)
+| Project | What it is |
+|---------|------------|
+| [Hiriya](https://github.com/natnaelesk/hiriya_ChatBot) | RAG chatbot for Ambo University |
+| [ETH-X01](https://github.com/natnaelesk/ETH-X01) | DSA / community platform for Ethiopian developers |
+| [Exit Exam Prep](https://github.com/natnaelesk/my_exit_preparation_app) | AI study tool (React + Django) |
+| [YouTube Sponsor Detector](https://github.com/natnaelesk/youtube-automation) | OpenAI + YouTube API client MVP |
 
-### **JavaScript Frontend**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+More case studies → **[natnaelesk.com](https://www.natnaelesk.com)**
 
-### **Databases & DevOps**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+---
 
-Check out my portfolio for detailed case studies: **[natnael-esk.vercel.app](https://natnael-esk.vercel.app)**
-
-<div align="center">
-  <sub><b>Thanks for visiting! Let's build something great.</b></sub>
-</div>
+Thanks for stopping by — open to collaborations and interesting roles.
